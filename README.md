@@ -6,13 +6,13 @@
 
 The AWS SDK for Salesforce makes it easy for developers to access Amazon Web Services in Apex<br/>code, and build robust applications and software using services like Amazon S3, Amazon EC2, etc.
 
-Get started by installing the package: <a href="https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6g000008SbOb"><b>/packaging/installPackage.apexp?p0=04t6g000008SbOb</b></a>
+Get started by installing the package by using the deploy button above.
 
 ###### Sign up then go to your AWS Console > Security Credentials > Access Keys:
 
 <img src="https://raw.githubusercontent.com/mattandneil/aws-sdk/master/README2.png" />
 
-#### Create a Named Credential
+#### Create a Named Credential (New Legacy)
 
 - **Name**: S3
 - **URL**: https://s3.us-east-1.amazonaws.com/
